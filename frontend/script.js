@@ -1,4 +1,4 @@
-const inputBoxes = document.querySelector(".text-boxes");
+const inputBoxes = document.querySelectorAll(".text-boxes");
 const nameBox = document.querySelector("#name-box");
 const emailBox = document.querySelector("#email-box");
 const phoneNumberBox = document.querySelector("#phonenumber-box");
